@@ -1,0 +1,9 @@
+websockets
+psycopg2
+pandas
+google-generativeai
+google-genai
+pydub
+channels
+langchain_core
+langchain_google_vertexai
